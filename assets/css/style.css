@@ -455,11 +455,14 @@ html{scroll-behavior:smooth;scroll-padding-top:5.5rem}
 
 .ftr__base{
   padding-block:1.6rem;border-top:1px solid rgba(201,153,43,.14);
+  display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;justify-content:space-between;
 }
 .ftr__base p{
   font-family:var(--util);font-size:.66rem;
   letter-spacing:.1em;text-transform:uppercase;color:#7A6A58;
 }
+.ftr__credit a{color:#8E7C64;text-decoration:none;border-bottom:1px solid rgba(142,124,100,.4)}
+.ftr__credit a:hover{color:var(--or)}
 
 /* ============ PHOTO SLOTS =============================================
    Drop a file at the data-src path and it appears automatically.

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140">
+  <rect width="140" height="140" rx="26" fill="#2C231E"/>
+  <g transform="translate(0 24)" fill="#C9992B" stroke="#C9992B">
+    <ellipse cx="70" cy="46" rx="60" ry="38" fill="none" stroke-width="5"/>
+    <g transform="translate(70 46) rotate(-31)" stroke="none">
+      <path d="M -9 -34 Q -9 -37 -6 -37 L 6 -37 Q 9 -37 9 -34 L 7.5 -19 Q 0 -16 -7.5 -19 Z"/>
+      <path d="M -2.2 -19 h 4.4 v 50 a 2.2 2.2 0 0 1 -4.4 0 Z"/>
+    </g>
+    <g transform="translate(70 46) rotate(31)" stroke="none">
+      <path d="M -1.5 32 h 3 v -53 h -3 Z"/>
+      <path d="M 0 -38 Q 4.6 -30 0 -21 Q -4.6 -30 0 -38 Z"/>
+      <path d="M 0 -20 Q -3 -30 -11 -31 Q -10 -22 0 -20 Z"/>
+      <path d="M 0 -20 Q 3 -30 11 -31 Q 10 -22 0 -20 Z"/>
+      <path d="M 0 -12 Q -3 -22 -11 -23 Q -10 -14 0 -12 Z"/>
+      <path d="M 0 -12 Q 3 -22 11 -23 Q 10 -14 0 -12 Z"/>
+      <path d="M 0 -4 Q -3 -14 -11 -15 Q -10 -6 0 -4 Z"/>
+      <path d="M 0 -4 Q 3 -14 11 -15 Q 10 -6 0 -4 Z"/>
+    </g>
+  </g>
+</svg>
